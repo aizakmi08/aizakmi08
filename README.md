@@ -2,6 +2,8 @@
 
 Full-stack developer focused on polished web and mobile products. I like building practical tools with clear user flows, reliable data handling, and enough product detail that a demo feels real.
 
+Open to software engineering roles where I can build product-quality web, mobile, and AI-assisted tools across the stack.
+
 ## Featured Projects
 
 | Project | What it shows |
