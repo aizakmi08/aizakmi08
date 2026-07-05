@@ -4,10 +4,13 @@ Full-stack developer focused on polished web and mobile products. I like buildin
 
 Open to software engineering roles where I can build product-quality web, mobile, and AI-assisted tools across the stack.
 
+For a deeper technical review, start with my [engineering case studies](https://github.com/aizakmi08/engineering-case-studies). They summarize architecture decisions, quality signals, tradeoffs, and next improvements across the projects below.
+
 ## Featured Projects
 
 | Project | What it shows |
 | --- | --- |
+| [Engineering Case Studies](https://github.com/aizakmi08/engineering-case-studies) | Recruiter-friendly technical writeups covering architecture decisions, project quality signals, tradeoffs, and improvement plans for my strongest public work. |
 | [Machiai](https://github.com/aizakmi08/machiai) | TypeScript CLI and desktop overlay that turns AI-agent wait time into short chess sessions. Includes Electron, Socket.IO, Redis/Postgres-ready server paths, MCP support, tests, and release checks. |
 | [Dem](https://github.com/aizakmi08/dem) | Expo/React Native stretching app with guided routines, onboarding, progress tracking, reminders, auth/sync, subscriptions, and a large exercise content library. |
 | [Woof](https://github.com/aizakmi08/woof) | Expo mobile app for pet food scanning and nutrition analysis with Supabase Auth, Edge Functions, streaming AI results, caching, history sync, and RevenueCat integration. |
@@ -19,10 +22,11 @@ Open to software engineering roles where I can build product-quality web, mobile
 
 If you are reviewing my GitHub for a role, start with:
 
-1. [Machiai](https://github.com/aizakmi08/machiai) for TypeScript architecture, CLI design, real-time systems, and release discipline.
-2. [Dem](https://github.com/aizakmi08/dem) for mobile product structure, content modeling, state, navigation, and tests.
-3. [Woof](https://github.com/aizakmi08/woof) for mobile + backend integration with auth, Edge Functions, streaming AI results, caching, and subscriptions.
-4. [Linkparser](https://github.com/aizakmi08/linkparser) for Next.js API routes, extraction pipelines, validation, and caching.
+1. [Engineering Case Studies](https://github.com/aizakmi08/engineering-case-studies) for a fast overview of architecture, quality signals, tradeoffs, and improvement plans.
+2. [Machiai](https://github.com/aizakmi08/machiai) for TypeScript architecture, CLI design, real-time systems, and release discipline.
+3. [Dem](https://github.com/aizakmi08/dem) for mobile product structure, content modeling, state, navigation, and tests.
+4. [Woof](https://github.com/aizakmi08/woof) for mobile + backend integration with auth, Edge Functions, streaming AI results, caching, and subscriptions.
+5. [Linkparser](https://github.com/aizakmi08/linkparser) for Next.js API routes, extraction pipelines, validation, and caching.
 
 ## What I Build
 
